@@ -1,1 +1,1 @@
-web: node server.js
+web: next start -p $PORT
